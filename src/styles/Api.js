@@ -1,0 +1,1 @@
+export const api = 'https://us-central1-aarka-348813.cloudfunctions.net/apiGateway/api-v1' ;

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241083630563",
+    "project_id": "letzplay-3cc66",
+    "storage_bucket": "letzplay-3cc66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241083630563:android:54506ae4e278142f0396d6",
+        "android_client_info": {
+          "package_name": "com.aarkasports.letzplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241083630563-1644jk8ftjfvkdd2b258g0susbnmfs9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPjgTzmY5A11PViI4md-yBEZHrnAy38A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241083630563-1644jk8ftjfvkdd2b258g0susbnmfs9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
